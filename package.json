@@ -1,0 +1,31 @@
+{
+  "name": "react-native-breadcrumb-navigation",
+  "version": "1.0.0",
+  "description": "A react-native breadcrumb navigation component library for both Android and ios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusleeeugene/react-native-breadcrumb-navigation.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "breadcrumb",
+    "breadcrumb",
+    "breadcrumbs",
+    "breadcrumb",
+    "navigation"
+  ],
+  "author": "Marcus Lee Eugene (https://github.com/marcusleeeugene)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/issues"
+  },
+  "homepage": "https://github.com/marcusleeeugene/react-native-breadcrumb-navigation#readme",
+  "peerDependencies": {
+    "react": "^16.10"
+  }
+}
