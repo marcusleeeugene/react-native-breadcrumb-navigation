@@ -39,13 +39,13 @@ import BreadCrumb from 'react-native-breadcrumb-navigation';
 | Name | Type | Description
 | ------------- | ------------- | ------------- |
 | trailData | Array | Array of destination trails for BreadCrumb  |
-| selectedIndex | Int | indicates selected crumb where index starts from 0 |
-| onPress | Function | Returns selected crumb index  |
-| backgroundColor | String | Background colour of BreadCrumb where you may also set to 'transparent' if preferred  |
+| selectedIndex | int | indicates selected crumb where index starts from 0 |
+| onPress | Function | Returns selected crumb index |
+| backgroundColor | String | Background colour of BreadCrumb where you may also set to 'transparent' if preferred |
 | fontColor | String | Colour of font  |
-| fontSize | Int | Size of font |
-| height | String | Height of container for BreadCrumb  |
-| top | String | Position of BreadCrumb from Status Bar  |
+| fontSize | int | Size of font |
+| height | String | Height of container for BreadCrumb |
+| top | String | Position of BreadCrumb from Status Bar |
 | textSpacing | String | Spacing between each crumb text |
 
 ## License
