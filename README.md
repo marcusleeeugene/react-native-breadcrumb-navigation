@@ -8,7 +8,7 @@ A basic example where you can see the change in the breadcrumb trail. [Source Co
 </p>
 
 ## React Navigation Example:
- An example using react navigation. Clicking on each breadcrumb trail will navigate user to destination screens. [SourceCode](https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/tree/master/examples/ReactNavigation/screens)
+ An example using react navigation. Clicking on each breadcrumb trail will navigate user to destination screens. [Source Code](https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/tree/master/examples/ReactNavigation/screens)
  <p align="center">
    <img align="center" src="https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/blob/master/examples/ReactNavigation/React%20Navigation%20Example.gif?raw=true" height="600">
  </p>
