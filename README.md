@@ -43,7 +43,7 @@ import BreadCrumb from 'react-native-breadcrumb-navigation';
 | onPress | Function | Returns selected crumb index  |
 | backgroundColor | String | Background colour of BreadCrumb where you may also set to 'transparent' if preferred  |
 | fontColor | String | Colour of font  |
-| fontSize | String | Size of font |
+| fontSize | Int | Size of font |
 | height | String | Height of container for BreadCrumb  |
 | top | String | Position of BreadCrumb from Status Bar  |
 | textSpacing | String | Spacing between each crumb text |
