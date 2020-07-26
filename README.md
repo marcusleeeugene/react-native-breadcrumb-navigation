@@ -4,13 +4,13 @@ A basic react-native breadcrumb component library for both Android and ios. The 
 ## Basic Example:
 A basic example where you can see the change in the breadcrumb trail. [Source Code](https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/blob/master/examples/Basic/App.js)
 <p align="center">
-  <img align="center" src="https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/blob/master/examples/Basic/Basic%20Example.gif" height="600">
+  <img align="center" src="https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/blob/master/examples/Basic/Basic%20Example.gif?raw=true" height="600">
 </p>
 
 ## React Navigation Example:
  An example using react navigation. Clicking on each breadcrumb trail will navigate user to destination screens. [SourceCode](https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/tree/master/examples/ReactNavigation/screens)
  <p align="center">
-   <img align="center" src="https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/blob/master/examples/ReactNavigation/React%20Navigation%20Example.gif" height="600">
+   <img align="center" src="https://github.com/marcusleeeugene/react-native-breadcrumb-navigation/blob/master/examples/ReactNavigation/React%20Navigation%20Example.gif?raw=true" height="600">
  </p>
 
 ## Installation
