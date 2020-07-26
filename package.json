@@ -1,7 +1,7 @@
 {
   "name": "react-native-breadcrumb-navigation",
   "version": "1.0.0",
-  "description": "A react-native breadcrumb navigation component library for both Android and ios.",
+  "description": "A basic react-native breadcrumb component library for both Android and ios. The component accounts for any number of trails that you input as an array to 'trailData' prop. The component is also dynamic and can handle for custom background colour, fontSize, fontColour, container height, top position from status bar, textSpacing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,13 +11,10 @@
     "url": "git+https://github.com/marcusleeeugene/react-native-breadcrumb-navigation.git"
   },
   "keywords": [
-    "react",
-    "native",
+    "react native breadcrumb",
+    "react native breadcrumb navigation",
     "breadcrumb",
-    "breadcrumb",
-    "breadcrumbs",
-    "breadcrumb",
-    "navigation"
+    "breadcrumb navigation",
   ],
   "author": "Marcus Lee Eugene (https://github.com/marcusleeeugene)",
   "license": "ISC",
