@@ -14,7 +14,7 @@ A basic example where you can see the change in the breadcrumb trail. [Source Co
  </p>
 
 ## Installation
-Installing with Npm:
+Installing with Npm: https://www.npmjs.com/package/react-native-breadcrumb-navigation
 ```
 npm i react-native-breadcrumb-navigation
 ```
