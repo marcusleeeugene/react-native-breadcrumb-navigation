@@ -2102,9 +2102,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-assign@^3.0.0:
   version "3.0.0"
@@ -4480,6 +4480,11 @@ react-native-appearance@~0.3.3:
     fbemitter "^2.1.1"
     invariant "^2.2.4"
     use-subscription "^1.0.0"
+
+react-native-breadcrumb-navigation@^1.0.0:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-breadcrumb-navigation/-/react-native-breadcrumb-navigation-1.0.4.tgz#1bf45760201d40a6dcdffc38efa55e06ddc5e274"
+  integrity sha512-ZEfnRTA2TSykcyA/uPe0P3ZKJbgdvLgI31mP7Qgijs5n9MnaDGdYDQnx4vlYJBl7Cj+XNKp9DDEF2+wzxqvfBg==
 
 react-native-safe-area-context@~3.0.7:
   version "3.0.7"
